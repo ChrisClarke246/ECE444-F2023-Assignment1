@@ -7,3 +7,7 @@
 ![alt text](https://github.com/ChrisClarke246/ECE444-F2023-Assignment1/blob/main/merge-develop.png)
 
 3) Create Issue, PR and fix conflicts
+   a) PR linked to issue
+   ![alt text](https://github.com/ChrisClarke246/ECE444-F2023-Assignment1/blob/main/PR.png)
+   b) Fix merge conflicts and successfully merge
+   ![alt text](https://github.com/ChrisClarke246/ECE444-F2023-Assignment1/blob/main/conflicts-resolved.png)
