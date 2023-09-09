@@ -14,3 +14,18 @@
    ![alt text](https://github.com/ChrisClarke246/ECE444-F2023-Assignment1/blob/main/conflicts-resolved.png)
    c) Successful merge shown by issue
    ![alt text](https://github.com/ChrisClarke246/ECE444-F2023-Assignment1/blob/main/issue-closed.png)
+
+4) Unit Test
+
+   a) Create Utils Class
+   ![alt text](https://github.com/ChrisClarke246/ECE444-F2023-Assignment1/blob/main/create_utils.png)
+   b) Create fixtures in Conftest
+   ![alt text](https://github.com/ChrisClarke246/ECE444-F2023-Assignment1/blob/main/conftest.png)
+   c) Test reversed function
+   ![alt text](https://github.com/ChrisClarke246/ECE444-F2023-Assignment1/blob/main/test_reversed.png)
+   d) Test formatter funtion
+   ![alt text](https://github.com/ChrisClarke246/ECE444-F2023-Assignment1/blob/main/test_formatter.png)
+   
+   
+   
+   
